@@ -23,6 +23,7 @@ k=1;
 for i=1:500
     PSI(i)=psi(i*2);
 end
+
 %plot
 xrange=-5:a*2:4.98;
 plot(xrange,PSI.^2,'LineWidth',2,'Color',[1 0.4 0.4]);
