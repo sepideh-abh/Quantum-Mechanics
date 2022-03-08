@@ -10,3 +10,4 @@ with initial condition:
 
 <img src="http://latex.codecogs.com/svg.latex?2\mu=B_0=1,\theta_0=\pi/3,\omega=2\pi/100" title="http://latex.codecogs.com/svg.latex?2\mu=B_0=1,\theta_0=\pi/3,\omega=2\pi/100" />
 
+You can determine ground state in <img src="http://latex.codecogs.com/svg.latex?t=N\epsilon" title="http://latex.codecogs.com/svg.latex?t=N\epsilon" /> with <img src="http://latex.codecogs.com/svg.latex?U(N\epsilon)|G(0)\rangle" title="http://latex.codecogs.com/svg.latex?U(N\epsilon)|G(0)\rangle" /> 
