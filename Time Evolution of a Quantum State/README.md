@@ -13,3 +13,5 @@ with initial condition:
 You can determine ground state in <img src="http://latex.codecogs.com/svg.latex?t=N\epsilon" title="http://latex.codecogs.com/svg.latex?t=N\epsilon" /> with <img src="http://latex.codecogs.com/svg.latex?U(N\epsilon)|G(0)\rangle" title="http://latex.codecogs.com/svg.latex?U(N\epsilon)|G(0)\rangle" /> where 
 
 <img src="http://latex.codecogs.com/svg.latex?U(N\epsilon)=\prod_{\tau=1}^N&space;exp(-iH(\epsilon&space;\tau)\epsilon)" title="http://latex.codecogs.com/svg.latex?U(N\epsilon)=\prod_{\tau=1}^N exp(-iH(\epsilon \tau)\epsilon)" />
+
+and in the end you can calculate <img src="http://latex.codecogs.com/svg.latex?\alpha=Im(ln(\langle&space;G(0)|G(t)\rangle))" title="http://latex.codecogs.com/svg.latex?\alpha=Im(ln(\langle G(0)|G(t)\rangle))" />
